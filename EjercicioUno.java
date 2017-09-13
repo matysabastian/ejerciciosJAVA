@@ -16,6 +16,9 @@ public class EjercicioUno {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int numerouno;
+        System.out.println("primer numero");
+        
     }
     
 }
