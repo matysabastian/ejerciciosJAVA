@@ -5,6 +5,8 @@
  */
 package ejrciciodos;
 
+import java.util.Scanner;
+
 /**
  *
  * @author alumno
@@ -17,6 +19,10 @@ public class EjrcicioDos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+        String Nombre;
+        Scanner MiEscaner=new Scanner(System.in);
+        System.out.println("Ingrese Nombre");
+        Nombre=MiEscaner.nextLine();
+        System.out.println("el nombre ingresado" + "matias");    }
     
 }
