@@ -13,12 +13,13 @@ public class EjercicioUno {
 
     /**
      * @param args the command line arguments
+     * se deve mostrar el siguiente mensaje : 
+     * esto funciona de maravilla
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int numerouno;
-        System.out.println("primer numero");
-        
+        System.out.println("esto funciona de maravilla");
+       
     }
     
 }
